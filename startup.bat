@@ -1,0 +1,2 @@
+start "" "C:\Program Files\zabbix\bin\zabbix_agentd.exe" -i -c "C:\Program Files\zabbix\conf\zabbix_agentd.win.conf"
+start "" "C:\Program Files\zabbix\bin\zabbix_agentd.exe" -s -c "C:\Program Files\zabbix\conf\zabbix_agentd.win.conf"

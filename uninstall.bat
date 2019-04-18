@@ -1,0 +1,1 @@
+start .\bin\zabbix_agentd.exe -d -c .\conf\zabbix_agentd.win.conf
